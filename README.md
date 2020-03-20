@@ -1,2 +1,3 @@
 # BC0220
-repositorio feb20
+Hemos cambiado el readme
+
